@@ -1,0 +1,11 @@
+Model Information:
+* title:	LSDspore PUPA_FINAL1
+* source:	https://sketchfab.com/3d-models/lsdspore-pupa-final1-01263561cd3f44e085ac5653b2559ec4
+* author:	Spacemonkey11 (https://sketchfab.com/Spacemonkey11)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LSDspore PUPA_FINAL1" (https://sketchfab.com/3d-models/lsdspore-pupa-final1-01263561cd3f44e085ac5653b2559ec4) by Spacemonkey11 (https://sketchfab.com/Spacemonkey11) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
